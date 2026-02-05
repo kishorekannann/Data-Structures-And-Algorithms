@@ -18,6 +18,6 @@ public class RearrangeElementsBySign {
     }
 }
 
-/*Time complexity : O(nklogk)
+/*Time complexity : O(n * klogk)
   Space complexity : O(n)
  */
