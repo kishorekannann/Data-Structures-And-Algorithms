@@ -48,3 +48,8 @@ class Solution {
     return mergehelper(nums, 0, nums.length - 1);
   }
 }
+
+/* 
+TC : O(2n * logn)
+SC : O(n)
+*/
