@@ -32,7 +32,7 @@ Constraints
   0 < nums[i], x < 105 
   nums is sorted in ascending order.
 */
-  
+
 class Solution {
     private int findFloor(int[] nums, int n, int x) {
         int low = 0, high = n - 1;
@@ -103,4 +103,4 @@ class Solution {
 /*
 TC : O(log n)
 SC : O(1)
- */
+*/
